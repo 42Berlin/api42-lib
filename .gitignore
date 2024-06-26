@@ -2,3 +2,4 @@ config.yml
 *.pyc
 __pycache__/
 *.swp
+.DS_Store
